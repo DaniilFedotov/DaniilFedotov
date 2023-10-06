@@ -1,5 +1,10 @@
-### Hi there 👋
-
+## Hi there, I'm Daniil 👋
+### Beginner Python developer, aerospace engineer
+- 🌱 I’m currently learning Python, Backend, API
+- 📫 How to reach me:
+  - Telegram: @FedotovDaniil
+  - Vk: vk.com/fedotov__daniil
+- ⚡ Fun fact: I programmed in Fortran😄
 <!--
 **DaniilFedotov/DaniilFedotov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
