@@ -1,6 +1,6 @@
 ## Hi there, I'm Daniil 👋
-### Beginner Python developer, aerospace engineer
-- 🌱 I’m currently learning Python, Backend, API
+### Python developer, aerospace engineer
+- 🔭 I’m currently working on 3DiVi Inc
 - 📫 How to reach me:
   - Telegram: @FedotovDaniil
   - Vk: vk.com/fedotov__daniil
