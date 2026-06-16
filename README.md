@@ -1,5 +1,5 @@
 ## Hi there, I'm Daniil 👋
-### Backend developer, aerospace engineer
+### Backend developer
 - 🔭 I’m currently working on 3DiVi Inc
 - 📫 How to reach me:
   - Telegram: @FedotovDaniil
