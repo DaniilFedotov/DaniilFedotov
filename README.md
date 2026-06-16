@@ -3,8 +3,6 @@
 - 🔭 I’m currently working on 3DiVi Inc
 - 📫 How to reach me:
   - Telegram: @FedotovDaniil
-  - Vk: vk.com/fedotov__daniil
-- ⚡ Fun fact: I programmed in Fortran😄
 <!--
 **DaniilFedotov/DaniilFedotov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
